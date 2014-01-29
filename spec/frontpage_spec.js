@@ -29,4 +29,10 @@ describe("The frontpage", function () {
       expect(browser.text("h1")).toEqual("Ahoy, vienna.js!");
     });
   });
+  
+  it("should tell vienna.js that we're hiring", function () {
+    onFrontpage(function () {
+      expect(browser.text("p")).toEqual("We're hiring!");
+    });
+  });
 });
