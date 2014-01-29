@@ -1,6 +1,6 @@
-Codefish
+vienna.js
 ======================
 
-This application is used for screencast tutorials about how to set up Codeship projects with Node.js applications.
+This is a little demo app for the vienna.js meetup.
 
-![Codeship Status](https://www.codeship.io/projects/c0add110-1de1-0131-2681-26aae15fad82/status)
+![Codeship Status](https://www.codeship.io/projects/9f1979b0-6af6-0131-5589-6a2f85e96327/status)
